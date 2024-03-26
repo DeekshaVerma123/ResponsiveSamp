@@ -52,8 +52,9 @@
     width: 277%;
     font-size: 40px;
   }
-  #services-container{
+ #services-container {
     height: 538px;
+    /* Other styles */
   }
  
 }
