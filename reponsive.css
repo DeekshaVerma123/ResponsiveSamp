@@ -73,4 +73,8 @@
  .logo img{
   height: 115px;
  }
+
+  #services .box{
+  height: 400px;
+}
 }
